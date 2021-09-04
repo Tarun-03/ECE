@@ -1,0 +1,38 @@
+h6{
+  font-size: 250%;
+  color: green;
+  text-align: center;
+    padding-top: 1%;
+  font-family: monospace;
+}
+img{
+  border-radius: 50%;
+  height: 30%;
+  width: 30%;
+}
+body{
+  background-color: #BFD8B8;
+}
+.buttons{
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: cursive;
+  height: 90%;
+}
+.buttons:hover {background-color: #3e8e41}
+.container{
+  text-align: center;
+    padding-top: 5%;
+}
+a{
+  text-decoration: none;
+}
+.buttonmenu{
+  text-align: center;
+  margin-top: 0;
+}
+.button{
+  font-size: 220%;
+  color: white;
+}
